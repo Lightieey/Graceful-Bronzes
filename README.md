@@ -1,5 +1,6 @@
 # Graceful-Bronzes
 Algorithm Study
+| 우아한 브론즈들
 
 ### ❗폴더명 규칙
 1. 본인 이름 폴더 생성 (ex. hyowon)
