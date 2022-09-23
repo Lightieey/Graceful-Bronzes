@@ -8,7 +8,7 @@ int main(void) {
     int count[42] = {};
     int n;
 
-    for(int i = 0; i < 11; i++) {
+    for(int i = 0; i < 10; i++) {
         cin >> n;
         count[n % 42]++;
     }
