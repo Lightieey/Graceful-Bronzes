@@ -11,7 +11,6 @@ N = int(sys.stdin.readline())
 #         print('*', end='')
 #     print('')
 
-
 ## 다른 풀이(구글링)
 for i in range(0, N):
     print(" "*(N-i)+"*"*i)
