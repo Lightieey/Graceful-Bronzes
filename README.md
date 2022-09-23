@@ -6,8 +6,8 @@ Algorithm Study
 2. 하위폴더로 주차별 폴더 생성 (ex. week1, week2, week3 ... )
 3. 하위폴더로 단계명 폴더 생성 (ex. I/O&arithmetic operation)
 * 1주차 폴더명
-I/O&arithmetic operation
-Contional
-Loop
-One-dimensional array
-Function
+I/O&arithmetic operation  
+Contional  
+Loop  
+One-dimensional array  
+Function  
