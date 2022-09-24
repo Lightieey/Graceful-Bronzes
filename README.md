@@ -31,5 +31,6 @@
 ## 🗓️일정표
 주차 | 날짜 | 단계 | 진행현황|
 :-:|:-:|:-:|:-:
-1 | 9/24 | IO*Arithmetic<br/>Conditional<br/>Loop<br/>ID_Array<br/>Function | <ul><li>[ ]</li></ul>
+1 | 9/24 | IO*Arithmetic<br/>Conditional<br/>Loop<br/>ID_Array<br/>Function | ✅  
+
 
