@@ -19,12 +19,8 @@ elif 100 <= N and N <= 1000:
         y = n // 10 % 10
         z = n % 10
 
-        if x < y and y < z:
-            if y-x == z-y:
-                count += 1
-        elif x >= y and y >= z:
-            if x-y == y-z:
-                count += 1
+        if x-y == y-z:
+            count += 1
 
     hansoo = 99 + count
 

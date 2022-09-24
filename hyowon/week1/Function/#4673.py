@@ -1,5 +1,6 @@
 # 셀프 넘버
 
+## 하다가 만 코드
 double = [1,3,5,7,9,20,31,42,53,64,75,86,97]
 
 notSelfNum = []
@@ -23,5 +24,3 @@ for i in range(1, 10001):
 for j in range(1, 10001):
     if j not in nonSelfNum:
         print(j)
-
-## 너무 졸려
