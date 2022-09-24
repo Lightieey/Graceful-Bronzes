@@ -31,6 +31,17 @@
 ## 🗓️일정표
 주차 | 날짜 | 단계 | 진행현황|
 :-:|:-:|:-:|:-:
-1 | 9/24 | IO*Arithmetic<br/>Conditional<br/>Loop<br/>ID_Array<br/>Function | ✅  
+1 | 9/24 | 1. IO&Arithmetic<br/>2. Conditional<br/>3. Loop<br/>4. ID_Array<br/>5. Function | ✅  
+2 | 10/1 | 6. String | |
+3 | 10/8 | 7. Math1<br/>8. Math2 | |
+4 | 10/15 | 9. Sorting | |
+5 | 10/29 | 10. Recursion | |
+6 | 11/5 | 11. BruteForce | |
+7 | 11/12 | 12. Set&Map | |
+8 | 11/19 | 13. Geometry | |
+9 | 11/26 | 14. Number&Combinatorics | |
+10 | 12/3 | 15. Backtracking | |
+
+
 
 
