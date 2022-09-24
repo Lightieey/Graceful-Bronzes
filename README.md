@@ -7,7 +7,7 @@
 - 언어 : 파이썬
 
 ## ❗github 업로드 규칙
-> [본이이름] - [주차별] - [단계별] 폴더로 구성하여 해당하는 파일 업로드  
+> `[본이이름] - [주차별] - [단계별]` 폴더로 구성하여 해당하는 파일 업로드  
 (예시: [hyowon]-[1week]-[Loop] 내에 #3006.py 업로드)  
   
   
@@ -31,8 +31,5 @@
 ## 🗓️일정표
 주차 | 날짜 | 단계 | 진행현황|
 :-:|:-:|:-:|:-:
-1 | 9/24 | IO*Arithmetic | ✅
-1 | 9/24 | Loop | ✅
-1 | 9/24 | Function | ✅
-1 | 9/24 | Conditional | ✅
-1 | 9/24 | 1D_Array | ✅ 
+1 | 9/24 | IO*Arithmetic<br/>Conditional<br/>Loop<br/>ID_Array<br/>Function | <ul><li>[ ]</li></ul>
+
