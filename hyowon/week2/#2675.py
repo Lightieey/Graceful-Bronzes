@@ -16,5 +16,3 @@ for i in range(T):
     for r in R_list[i]:
         print(r * S_list[i], end='')
     print('')
-
-
