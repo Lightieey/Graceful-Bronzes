@@ -23,5 +23,5 @@ elif 100 <= N and N <= 1000:
             count += 1
 
     hansoo = 99 + count
-
+    
 print(hansoo)
