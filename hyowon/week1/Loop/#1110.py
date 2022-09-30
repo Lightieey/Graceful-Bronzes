@@ -2,7 +2,7 @@
 
 import sys
 
-N = int(input('정수 입력: '))
+N = int(input())
 
 origin = N
 N_new = -1

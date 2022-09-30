@@ -7,7 +7,6 @@ C = int(sys.stdin.readline())
 C_hour = C // 60
 C_min = C % 60
 
-
 A_end = int(A)+C_hour
 B_end = int(B)+C_min
 
