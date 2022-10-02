@@ -4,14 +4,19 @@ import sys
 
 N = int(input())
 
+# [aba, abab, abcabc, a]
 wordList = []
 for i in range(N):
     word = sys.stdin.readline()
     wordList.append(word)
 
 
-count = 0 # 그룹 단어 개수
+count = 0 # 그룹 단어가 아닌 개수
 existWord = []  # 그룹 단어 체크를 위한 문자 리스트
+# [a, b]
+# [a, b]
+# [a, b, c]
+
 
 for word in wordList:
     for i in range(len(word)-1):
