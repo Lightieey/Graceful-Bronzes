@@ -1,4 +1,5 @@
 # 단어 공부
+# count
 import sys
 
 spelling = sys.stdin.readline()
