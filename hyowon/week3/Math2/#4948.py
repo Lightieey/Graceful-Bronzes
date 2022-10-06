@@ -15,6 +15,9 @@ for case in case_List:
         flag = 1
         if c == 1:
             flag = 0
+        # 2를 제외한 짝수
+        elif c % 2 == 0 and c != 2:
+            flag = 0
         else:
             for i in range(2, c):
                 if c % i == 0:
