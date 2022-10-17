@@ -1,5 +1,6 @@
 //
 // Created by 김민지 on 2022/10/17.
+// flag++ flag-- 해서 확인하는거 서치함
 //
 #include "iostream"
 using namespace std;
