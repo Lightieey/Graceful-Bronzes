@@ -11,7 +11,6 @@ int main() {
     cin >> str;
 
     string  change[] = {"c=", "c-", "dz=", "d-", "lj", "nj", "s=", "z="};
-    string croatia[] = {"č", "ć", "dž", "đ", "lj", "nj", "š", "ž"};
     int count = 0;
     for (int i = 0; i < 8; i++) {
         while (str.find(change[i]) != string::npos) {
