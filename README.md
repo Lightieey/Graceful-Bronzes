@@ -35,7 +35,7 @@
 2 | 10/1 | 6. String | ✅ | 
 3 | 10/8 | 7. Math1<br/>8. Math2 | ✅ |
 4 | 10/15 | 9. Sorting | ✅ |
-5 | 10/29 | 10. Recursion | |
+5 | 10/29 | 10. Recursion | ✅ |
 6 | 11/5 | 11. BruteForce | |
 7 | 11/12 | 12. Set&Map | |
 8 | 11/19 | 13. Geometry | |
