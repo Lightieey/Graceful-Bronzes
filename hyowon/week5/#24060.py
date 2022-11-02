@@ -4,7 +4,7 @@ import sys
 def merge_sort(a):
     n = len(a)
     if n <= 1:
-        return
+        return a
 
     mid = n // 2
     g1 = a[:mid]
@@ -39,8 +39,6 @@ def merge_sort(a):
         i2 += 1
         ia += 1
 
-
-
 N, K = map(int, sys.stdin.readline().split())
 N_list = list(map(int, sys.stdin.readline().split()))
 
@@ -49,8 +47,10 @@ merge_sort(N_list)
 
 if len(ans) >= K:
     print(ans[K-1])
+    print(ans)
 else:
     print(-1)
+    print(ans)
 
 
 # def merge_sort(A, p, r):
