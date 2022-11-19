@@ -1,3 +1,4 @@
+# dict에 key : value로  번호 : 이름, 이름 : 번호
 import sys
 input = sys.stdin.readline
 n, m = map(int, input().split())
