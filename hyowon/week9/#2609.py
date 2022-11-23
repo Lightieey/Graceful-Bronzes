@@ -6,7 +6,6 @@ A, B = map(int, sys.stdin.readline().split())
 ap = set()
 bp = set()
 
-
 # A의 약수 구하기
 i = 1
 while i <= A:
