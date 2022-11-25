@@ -1,3 +1,6 @@
+# 출발점과 도착점이 원 안에 속하는지 속하지 않는지 확인
+
+
 t = int(input())
 for i in range(t):
     cnt = 0
