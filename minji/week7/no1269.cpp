@@ -24,8 +24,9 @@ int main() {
     }
 
     set<int> res;
-    set_difference(A.begin(), A.end(), B.begin(), B.end(), inserter(res, res.begin()));
-    set_difference(B.begin(), B.end(), A.begin(), A.end(), inserter(res, res.begin()));
+//    set_difference(A.begin(), A.end(), B.begin(), B.end(), inserter(res, res.begin()));
+//    set_difference(B.begin(), B.end(), A.begin(), A.end(), inserter(res, res.begin()));
+    set_symmetric_difference(A.begin(), A.end(), B.begin(), B.end(), inserter(res, res.begin()));
 
     cout << res.size();
 }
