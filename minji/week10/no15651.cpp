@@ -1,0 +1,33 @@
+//
+// Created by 김민지 on 2022/12/02.
+// 사실 visited도 필요 없다...
+//
+#include "iostream"
+#define MAX 8
+using namespace std;
+
+int n, m;
+int arr[MAX] = {0,};
+bool visited[MAX] = {0,};
+
+void dfs(int cnt) {
+    if (cnt == m) {
+        for (int i = 0; i < m; i++) {
+            cout << arr[i] << " ";
+        }
+        cout << "\n";
+        return;
+    }
+
+    for (int i = 1; i <= n; i++) {
+        visited[i] = true;
+        arr[cnt] = i;
+        dfs(cnt+1);
+        visited[i] = false;
+    }
+}
+
+int main() {
+    cin >> n >> m;
+    dfs(0);
+}
