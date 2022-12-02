@@ -1,5 +1,6 @@
 //
 // Created by 김민지 on 2022/12/02.
+// 사실 visited도 필요 없다...
 //
 #include "iostream"
 #define MAX 8
